@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    background: #e4e4f6;
+    text-align: center;
+}
+
+.card{
+    position: relative;
+    margin: 50px 100px;
+    background-color: white;
+    height: auto;
+    max-width: 100%;
+}
